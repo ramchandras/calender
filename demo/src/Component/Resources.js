@@ -1,0 +1,40 @@
+
+var Resources=[
+    {
+        resourceId:"a",
+        title:"event1",
+        start:"2021-08-12T12:00:00+00:00",
+        end:"2021-08-12T02:00:00+04:00"
+      },
+      {
+        resourceId:"b",
+        title:"meeting",
+        start:"2021-08-13T06:00:00+00:00",
+        end:"2021-08-13T02:0:00+04:00"
+      },
+      {
+        resourceId:"h",
+        title:"function",
+        start:"2021-08-15T09:00:00+00:00",
+        end:"2021-08-17T005:00:00+00:00"
+      },
+      {
+        resourceId:"d",
+        title:"shopping",
+        start:"2021-08-20T010:00:00+00:00",
+        end:"2021-08-21T11:00:00+00:00"
+      },
+      {
+        resourceId:"e",
+        title:"training",
+        start:"2021-08-21T09:00:00+00:00",
+        end:"2021-08-23T011:00:00+00:00"
+      },
+      {
+        resourceId:"f",
+        title:"tour",
+        start:"2021-08-25T03:00:00+00:00",
+        end:"2021-08-31T05:00:00+00:00"
+      }
+]
+export default Resources
